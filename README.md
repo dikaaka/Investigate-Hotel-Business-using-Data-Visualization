@@ -18,6 +18,6 @@ Including the calculation processes to get cancellation rate of hotel bookings p
 ## Conclusion
 According to result of my analysis, june and july are the peak season of hotel bookigs it has highest average number of hotel bookings than other months. But, there is another growth in december. It could be happen because june and july are holiday month for students in Indonesia, and december is end year's holiday month.
 
-For another insights, there is positive possitive trend on cancellation rate of hotel bookings per stay duration. The longer customer's plan to stay, the higher cancellation rate. It could be happen because human error when customer did reservation or they cancelled the vacation plan because any urgent reasons that they could'nt turn down.
+For another insights, there is positive positive trend on cancellation rate of hotel bookings per stay duration. The longer customer's plan to stay, the higher cancellation rate. It could be happen because human error when customer did reservation or they cancelled the vacation plan because any urgent reasons that they couldn't turn down.
 
-Also, 1 month lead time has the lowest cancellation rate and 11-12 months lead time has the highest cancellation rate. 
+Also, 1 month lead time has the lowest cancellation rate and 11-12 months lead time has the highest cancellation rate. The reason is look simmiliar like cancellation rate per stay duration.
