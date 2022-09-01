@@ -6,7 +6,7 @@ Find out how hotel’s customers behave in making hotel reservations, and how th
 ### Objective
 Insights will be presented in the form of visualization data to make it easier to understand and more persuasive.
 ## Data
-The dataset contains 119.390 data rows and 29 customer behavior features who made hotel bookings.
+The dataset contains 119.390 data rows and 29 features of customer behavior features who made hotel bookings.
 ### Data Source
 If any of you curious about the database or wanna to try by yourself, feel free to access the database from [here.](https://drive.google.com/file/d/1fCm6n8TzdcoV144uRRL5QxIBd-zvNzHn/view?usp=sharing)
 ## Tools
